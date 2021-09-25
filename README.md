@@ -172,8 +172,12 @@ Parsing and printing out more complicated mathematical expression
 https://nerdparadise.com/programming/parsemathexpr
 
 Parsing out in 50 or 70 lines
+
 https://erezsh.wordpress.com/2012/11/18/how-to-write-a-calculator-in-50-python-lines-without-eval/
+
 https://erezsh.wordpress.com/2013/02/24/how-to-write-a-calculator-in-70-python-lines-by-writing-a-recursive-descent-parser/
+
+Other coding inspiration links
 
 https://www.reddit.com/r/learnpython/comments/l1ybvx/making_a_pemdas_calculator/ 
 
