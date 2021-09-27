@@ -169,7 +169,10 @@ https://stackoverflow.com/questions/62902096/how-to-evaluate-a-user-input-of-a-s
 **Code Inspiration**
 
 Parsing and printing out more complicated mathematical expression
+
 https://nerdparadise.com/programming/parsemathexpr
+
+https://www.booleanworld.com/building-recursive-descent-parsers-definitive-guide/
 
 Parsing out in 50 or 70 lines
 
