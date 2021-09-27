@@ -119,7 +119,7 @@ print("The multiplication and subtraction of three numbers are",math_parantheses
 
 
 #### PEMDAS ?
-We also discovered that Python has established an order of operations protocol called **PEMDAS** in order for the language to interpret correctly mathmatical rules when it uses mathematical functions such as **eval()**. Another challenge of this project is to re-incorporate these type operations manually into our code. 
+We also discovered that Python follows the established order of mathematical operations protocol called **PEMDAS** in order for the language to interpret correctly mathmatical rules when it uses mathematical functions such as **eval()**. Another challenge of this project is to re-incorporate these type operations manually into our code. 
 
 Sources: 
 
